@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working in **the field of digital forensics.**
 
-- 🌱 I’m currently learning **Python, C, SQL and development essentials - AWS, PostgreSQL, etc.**
+- 🌱 I’m currently learning **Python, C, and development essentials - AWS, PostgreSQL, etc.**
 
-- 👨‍💻 All of my projects are available at [here](https://github.com/lordicode)🔰
+- 👨‍💻 All of my projects are available [here](https://github.com/lordicode)🔰
 
 - 📫 How to reach me **lordicode@gmail.com**
 
