@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, C, SQL and development essentials - AWS, PostgreSQL, etc.**
 
-- 👨‍💻 All of my projects are available at [/lordicode](/lordicode)🔰
+- 👨‍💻 All of my projects are available at [here]([url](https://github.com/lordicode))🔰
 
 - 📫 How to reach me **lordicode@gmail.com**
 
