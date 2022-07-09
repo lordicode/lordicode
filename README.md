@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Klavdii</h1>
-<h3 align="center">A passionate Technical Support Engineer and CS/all things tech enthusiast (Have you seen the new ASML machine?!👀). This profile will have public versions of project I make for my job and also my own project made during learning.🇪🇺</h3>
+<h1 align="center">Hi 👋, I'm Klavdii <img src="https://iconarchive.com/show/flags-icons-by-wikipedia/EU-European-Union-Flag-icon.html" alt="eu" width="20" height="20"/></h1>
+<h3 align="center">A passionate Technical Support Engineer and CS/all things tech enthusiast (Have you seen the new ASML machine?!👀). This profile will have public versions of project I make for my job and also my own project made during learning.</h3>
 
 - 🔭 I’m currently working in **the field of digital forensics.**
 
