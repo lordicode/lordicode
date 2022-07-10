@@ -3,7 +3,7 @@
 
 <h4 align="center">This profile will have public versions of projects I make for my job and also my own projects made during learning.</h4>
 
-- 🔭 I’m currently working in **the field of digital forensics.**
+- 🔭 I’m currently working in **the field of digital forensics as a technical support specialist.**
 
 - 🌱 I’m currently learning **Python, C, and development essentials - AWS, PostgreSQL, etc.**
 
