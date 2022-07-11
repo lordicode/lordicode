@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Klavdii <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/2560px-Flag_of_Europe.svg.png" alt="eu" width="38" height="30"/></h1>
+<h1 align="center">Hi 👋, I'm Klavdii <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/2560px-Flag_of_Europe.svg.png" alt="eu" width="40" height="30"/></h1>
 <h3 align="center">A passionate Technical Support Engineer and CS/all things tech enthusiast.</h3> 
 
 <h4 align="center">This profile will have public versions of projects I make for my job and also my own projects made during learning.</h4>
