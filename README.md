@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working in **the field of digital forensics as a technical support specialist.**
 
-- 🌱 I’m currently learning **Python, getting to know the Digital Forensics field deeper, and getting accustomed to development essentials - AWS, PostgreSQL, etc.**
+- 🌱 I’m currently learning **Python, getting to know the Digital Forensics field deeper (+Android, iOS), and getting accustomed to development essentials - AWS, PostgreSQL, etc.**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/lordicode)🔰
 
