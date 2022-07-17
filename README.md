@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available [here](https://github.com/lordicode)🔰
 
-- 📫 How to reach me **lordicode@gmail.com**
+- 📫 How to reach me **lordicode@gmail.com** and **<a href="https://www.linkedin.com/in/klavdii-chopats/">my Linkedin</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
