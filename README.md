@@ -18,11 +18,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">          
-<h4 align="left">Medium to Advanced level of competence:</h4>
-</a> <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/-aex9dK8-hchgNFf5lsMCy0_9sl6kK_JIS4nh-6p3_NG9w2BwASOTRsNg-tgnONg8Q" alt="confluence" width="40" height="40"/> </a>
+<h4 align="left">Advanced level of competence:</h4>
+<a href="https://www.zoho.com/crm/" target="_blank" rel="noreferrer"> <img src="https://progsoft.net/images/zoho-crm-icon-12d1ae39dcef95ddad54a715988b41946a7aa6dc.png" alt="Zoho CRM" width="40" height="40"/> </a>
+<a href="https://www.zendesk.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/zendesk-1.svg" alt="Zendesk" width="40" height="40"/> </a> <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/-aex9dK8-hchgNFf5lsMCy0_9sl6kK_JIS4nh-6p3_NG9w2BwASOTRsNg-tgnONg8Q" alt="confluence" width="40" height="40"/> </a>
 <a href="https://www.apptio.com/products/targetprocess/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/649085?s=280&v=4" alt="targetprocess" width="40" height="40"/> </a>
 
-<h4 align="left">Advanced Beginner level of competence:</h4>
+<h4 align="left">Medium level of competence:</h4>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="PowerShell" width="40" height="40"/> </a>
 <!---
 lordicode/lordicode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
